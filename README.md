@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isni-sh&label=Profile%20views&color=0e75b6&style=flat" alt="isni-sh" /> </p>
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **Tensorflow** 
 
 - 💬 Ask me about **react, nextjs, react-native**
 
